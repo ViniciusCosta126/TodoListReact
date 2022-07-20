@@ -1,0 +1,20 @@
+.addtask{
+    margin: 14px 16px;
+}
+.addtask label input{
+    padding: 10px 20px;
+    width: 50%;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+}
+.addtask button{
+    padding: 10px 24px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+    background-color: #2D3047;
+    color: #fff;
+}
